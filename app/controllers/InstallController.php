@@ -677,6 +677,13 @@ class InstallController
                 }
 
 
+                if(!$language->where('iso_code', 'es')->getRow()) {
+                    $language           = new Languages();
+                    $language->name     = 'Español';
+                    $language->iso_code = 'es';
+                    $language->save();
+                }
+
                 if(!$language->where('iso_code', 'en')->getRow()) {
                     $language           = new Languages();
                     $language->name     = 'English';
