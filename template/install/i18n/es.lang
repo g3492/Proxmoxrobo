@@ -5,19 +5,19 @@
         "Текущее значение": "Valor actual",
         "Версия PHP": "Versión PHP",
         "Включено": "Activar",
-        "Да": "Sí",
+        "Да": "On",
         "Файл %file доступен на запись": "Archivo %file es escribible",
         "Далее": "Next step",
         "Директория %dir доступна на запись": "Dir %dir es escribible",
         "Нет": "No"
     },
     "carcase.php": {
-        "Проверка параметров": "Checking  Param",
-        "Лицензия": "License",
-        "Настройки": "Settings",
-        "Установка базы данных": "DB install",
-        "Выбор языка": "Select language",
-        "Установщик биллинг системы HopeBilling": "HopeBilling installer "
+        "Проверка параметров": "Verificación parámetros",
+        "Лицензия": "Licensia",
+        "Настройки": "Configuración",
+        "Установка базы данных": "Instalar DB",
+        "Выбор языка": "Elejir idioma",
+        "Установщик биллинг системы HopeBilling": "Instalador "
     },
     "license.php": {
         "Ваш лицензионный ключ": "Your license key",
