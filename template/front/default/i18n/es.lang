@@ -127,7 +127,7 @@
         "Дата": "Fecha",
         "Новый": "Nuevo",
         "Низкий": "Baja",
-        "Просмотр тикета": "Mostrar ticket",
+        "Просмотр тикета": "Ver ticket",
         "Закрыть тикет": "Cerrar ticket",
         "Результаты не найдены.": "Sin resultados.",
         "Высокий": "Alta",
@@ -490,7 +490,7 @@
         "Тикет": "Ticket",
         "Backup service": "Servicio de resguardo",
         "Backups": "Resguardos",
-        "Backup schedule": "Programa de Resguardos",
+        "Backup schedule": "Plan de resguardo",
         "Virtual Private Servers": "Virtual Private Servers",
         "Virtual Private Server": "Virtual Private Servers"
     },
