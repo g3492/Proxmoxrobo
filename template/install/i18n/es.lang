@@ -16,7 +16,7 @@
         "Лицензия": "Licensia",
         "Настройки": "Configuración",
         "Установка базы данных": "Instalar DB",
-        "Выбор языка": "Elejir idioma",
+        "Выбор языка": "Elegir idioma",
         "Установщик биллинг системы HopeBilling": "Instalador "
     },
     "license.php": {
@@ -37,7 +37,7 @@
         "Для продолжения вы должны согласиться с условиями лицензии": "To continue you must agree to the terms of the license",
         "Условия лицензии": "The license terms",
         "Я согласен с условиями лицензии": "I agree to the terms of the license",
-        "Далее": "Next"
+        "Далее": "Siguiente"
     },
     "db.php": {
         "Сервер": "Servidor",
@@ -53,7 +53,7 @@
         "Password": "Contraseña",
         "DB password": "Contraseña de la base",
         "Database name": "Nombre base de datos",
-        "database name": "Nombre base de datos",
+        "database name": "nombre base de datos",
         "Next step": "Siguiente"
     },
     "settings.php": {
