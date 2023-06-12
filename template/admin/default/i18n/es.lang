@@ -522,7 +522,9 @@
         "ФИО": "Nombre completo",
         "Номер телефона": "Teléfono",
         "Закрыть": "Cerrar",
-        "Войти": "Ingresar"
+        "Войти": "Ingresar",
+        "Документы:": "Documentación",
+        "Документы": "Documentación"
     },
     "views\/domain\/edit.php": {
         "Редактировать домен": "Editar dominio",
