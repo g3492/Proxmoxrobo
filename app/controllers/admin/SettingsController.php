@@ -57,10 +57,10 @@ class SettingsController extends FrontController
         $email->msg = 'Test message from HopeBilling';
 
         if ($email->send()) {
-            $this->returnAjaxAnswer(1, 'Тестовое письмо отправлено');
+            $this->returnAjaxAnswer(1, 'Correo electrónico de prueba enviado');
         }
 
-        $this->returnAjaxAnswer(0, 'Не удалось отправить письмо');
+        $this->returnAjaxAnswer(0, 'No se pudo enviar el correo electrónico');
     }
 
     public function actionIndexAjax()

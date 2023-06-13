@@ -205,7 +205,8 @@
         "Коэффициент по отношению к валюте по-умолчанию": "Cotización",
         "Символ": "Símbolo",
         "Сохранить": "Guardar",
-        "Формат отражения": "Formato reflejo"
+        "Формат отражения": "Formato",
+        "Например: $ {0} или {0} руб.": "Ejemplo: $ {0} o U$D{0} o €{0}."     
     },
     "views\/setting\/currencies_setting.php": {
         "Сервер для получения курса валют": "Servidor de actualizacón de cotizaciones",
@@ -213,7 +214,7 @@
         "Сохранить": "Guardar",
         "Приват24": "Private24",
         "НБУ": "NBU",
-        "Центральный банк Российской Федерации": "Central Bank of the Russian Federation",
+        "Центральный банк Российской Федерации": "Central Bank of the Russian Federation.",
         "European Central Bank": ""
     },
     "views\/domain\/order\/list.php": {
