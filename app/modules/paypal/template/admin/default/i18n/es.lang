@@ -1,10 +1,10 @@
 {
     "setting.php": {
-        "Client ID": "",
-        "Secret": "",
-        "Additional percent": "",
-        "Percent": "",
-        "Использовать тестовый сервер": "",
+        "Client ID": "ID Cliente",
+        "Secret": "Secreto",
+        "Additional percent": "Porcentaje adicional",
+        "Percent": "Porcentaje",
+        "Использовать тестовый сервер": "Usar servidor de prueba",
         "Сохранить": ""
     }
 }
